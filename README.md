@@ -8,3 +8,5 @@ Linux dotfiles (including vim)
 `yadm bootstrap`
 
 If on old Ubuntu: `.config/yadm/bootstrap`
+
+Then, inside VIM, enter PlugInstall
